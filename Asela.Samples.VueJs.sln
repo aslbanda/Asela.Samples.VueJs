@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asela.Samples.VueJs", "Asel
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asela.Samples.VueJs.Tests", "Asela.Samples.VueJs.Tests\Asela.Samples.VueJs.Tests.csproj", "{409153D1-2CCF-4E56-8972-5BCCF452643C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asela.Samples.VueJs.Service", "Asela.Samples.VueJs.Service\Asela.Samples.VueJs.Service.csproj", "{571389DF-FBF9-4FC5-916C-CEDBB3E7DCB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{409153D1-2CCF-4E56-8972-5BCCF452643C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{409153D1-2CCF-4E56-8972-5BCCF452643C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{409153D1-2CCF-4E56-8972-5BCCF452643C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{571389DF-FBF9-4FC5-916C-CEDBB3E7DCB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{571389DF-FBF9-4FC5-916C-CEDBB3E7DCB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{571389DF-FBF9-4FC5-916C-CEDBB3E7DCB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{571389DF-FBF9-4FC5-916C-CEDBB3E7DCB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
